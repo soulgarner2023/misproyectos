@@ -64,7 +64,7 @@ const App: React.FC = () => {
               <HeaderCell>Secciones</HeaderCell>
               <Cell>ABCD</Cell>
               <HeaderCell>Profesores</HeaderCell>
-              <Cell colSpan={2}>Javier Sanchez</Cell>
+              <Cell colSpan={2}>Nelly Medina</Cell>
             </tr>
 
             {/* Fila 3 y 4: Duración, Unidad, etc. */}
